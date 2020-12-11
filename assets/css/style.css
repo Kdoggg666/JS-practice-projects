@@ -13,12 +13,11 @@
     text-align: center;
     color: black;
     background: red;
-
-}
-
-.transitioned {
     
+
 }
+
+
 
 .playing {
     transform:scale(1.1);
